@@ -1,2 +1,28 @@
-# Subject_Selector
-Empowered students to easily enroll in new courses and remove previously enrolled courses, while granting administrators the capability to perform CRUD operations on both entities using the express API. using React.js, Material-UI, Node.js, Express.js, MongoDB
+
+#  HackForce
+
+## Tech Stack
+
+**Client:** HTML, CSS, React
+
+**Server:** NodeJs, Express
+
+**Database** MongoDB Atlas
+
+## Screenshots
+
+**Landing Page:**
+
+## Authors
+
+- [@Akshay Kale](https://www.linkedin.com/in/akshay-kale-8a597b20b/)
+- [@Nilesh Warke](https://www.linkedin.com/in/warke-nilesh)
+- [@Vaibhav Nayak](https://www.linkedin.com/in/vaibhavnayak/)
+
+## Installation
+
+1 . Create a clone for this repository
+2 .Install require packages using npm package manager
+```bash
+    npm install
+```
